@@ -1,4 +1,4 @@
-echo "Enter Number To be Reversed";
+echo "Enter Number To be Reversed\n";
 read num
 
 n=$num
